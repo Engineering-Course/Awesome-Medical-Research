@@ -11,25 +11,25 @@ Awesome list for deep learning on medical research
 
 
 ## Dialog Systems
- Task-oriented Dialogue System for Automatic Diagnosis, ACL 2018 [Paper](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf)
+ [Task-oriented Dialogue System for Automatic Diagnosis](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf), ACL 2018
  
- Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems, ACL 2018 [Paper](http://aclweb.org/anthology/P18-1136) [Code](https://github.com/HLTCHKUST/Mem2Seq)
+ [Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](http://aclweb.org/anthology/P18-1136), ACL 2018
   
   
 ## Medical Imaging Reports
-  On the Automatic Generation of Medical Imaging Reports, ACL 2018 [Paper](http://aclweb.org/anthology/P18-1240) [Code](https://github.com/ZexinYan/Medical-Report-Generation)
+  [On the Automatic Generation of Medical Imaging Reports](http://aclweb.org/anthology/P18-1240), ACL 2018
   
   
 ## Lesion Detection
- Deep Lesion Graphs in the Wild, CVPR 2018 [Paper](https://arxiv.org/pdf/1711.10535.pdf)
+ [Deep Lesion Graphs in the Wild](https://arxiv.org/pdf/1711.10535.pdf), CVPR 2018
  
- DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning, JMI 2018 [Paper](https://arxiv.org/pdf/1710.01766.pdf)
+ [DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning](https://arxiv.org/pdf/1710.01766.pdf), JMI 2018
  
- 3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection, 	MICCAI 2018 [Paper](https://arxiv.org/pdf/1806.09648.pdf)
+ [3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection](https://arxiv.org/pdf/1806.09648.pdf), 	MICCAI 2018
 
 
 ## Benchmark
-  Musculoskeletal Radiographs [MURA](https://stanfordmlgroup.github.io/competitions/mura/)
+  [Musculoskeletal Radiographs (MURA)](https://stanfordmlgroup.github.io/competitions/mura/)
   
 
 ## Blog
