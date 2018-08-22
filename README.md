@@ -7,9 +7,10 @@ Awesome list for deep learning on medical research
 - [Lesion Detection](#lesion-detection)
 - [Knowledge Graph](#knowledge-graph)
 - [Natural Language Processing](#natural-language-processing)
-- [Benchmark](#benchmark)
+- [Challenge](#challenge)
 - [Blog](#blog)
 - [Slice](#slice)
+- [Website](#website)
 - [Related Awesome Lists](#related-awesome-lists)
 
 
@@ -18,6 +19,12 @@ Awesome list for deep learning on medical research
  
  [Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](http://aclweb.org/anthology/P18-1136), ACL 2018
   
+ [Knowledge Diffusion for Neural Dialogue Generation] (http://aclweb.org/anthology/P18-1138), ACL 2018 
+  
+ [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings](https://arxiv.org/pdf/1704.07130.pdf), ACL 2017
+ 
+
+
   
 ## Medical Imaging Reports
   [On the Automatic Generation of Medical Imaging Reports](http://aclweb.org/anthology/P18-1240), ACL 2018
@@ -39,8 +46,9 @@ Awesome list for deep learning on medical research
  [Universal Transformers](https://arxiv.org/pdf/1807.03819.pdf)
  
 
-## Benchmark
+## Challenge
   [Musculoskeletal Radiographs (MURA)](https://stanfordmlgroup.github.io/competitions/mura/)
+  [The Conversational Intelligence Challenge](http://convai.io/)
   
 
 ## Blog
@@ -53,6 +61,13 @@ Awesome list for deep learning on medical research
 
 ## Slice
  [Extracting and Modeling Relations with Graph Convolutional Networks](http://202.116.81.74/cache/12/03/www.akbc.ws/c98bae8bd49116c3dcc9546922d94064/ivan-titov-slides.pdf)
+ 
+## Website
+ [National Institutes of Health](https://www.nih.gov/news-events/news-releases/nih-clinical-center-releases-dataset-32000-ct-images)
+ [buoyhealth](https://www.buoyhealth.com/symptoms-a-z/)
+ [HUGGING FACE](https://huggingface.co/)
+ 
+ 
 
 ## Related Awesome Lists
 
