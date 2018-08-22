@@ -40,7 +40,9 @@ Awesome list for deep learning on medical research
 
 ## Graph Reasoning
  [GO FOR A WALK AND ARRIVE AT THE ANSWER](https://arxiv.org/pdf/1711.05851.pdf), ICLR 2018
+ 
  [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](https://arxiv.org/pdf/1806.05662.pdf)
+ 
 
 
 ## Natural Language Processing
