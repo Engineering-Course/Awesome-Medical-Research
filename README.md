@@ -5,8 +5,11 @@ Awesome list for deep learning on medical research
 - [Dialog Systems](#dialog-systems)
 - [Medical Imaging Reports](#medical-imaging-reports)
 - [Lesion Detection](#lesion-detection)
+- [Knowledge Graph](#knowledge-graph)
+- [Natural Language Processing](#natural-language-processing)
 - [Benchmark](#benchmark)
 - [Blog](#blog)
+- [Slice](#slice)
 - [Related Awesome Lists](#related-awesome-lists)
 
 
@@ -28,12 +31,28 @@ Awesome list for deep learning on medical research
  [3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection](https://arxiv.org/pdf/1806.09648.pdf), 	MICCAI 2018
 
 
+## Knowledge Graph
+ [GO FOR A WALK AND ARRIVE AT THE ANSWER](https://arxiv.org/pdf/1711.05851.pdf), ICLR 2018
+
+
+## Natural Language Processing
+ [Universal Transformers](https://arxiv.org/pdf/1807.03819.pdf)
+ 
+
 ## Benchmark
   [Musculoskeletal Radiographs (MURA)](https://stanfordmlgroup.github.io/competitions/mura/)
   
 
 ## Blog
+ [Domain-specific Knowledge Graph](https://mp.weixin.qq.com/s/aoYbTIoLt2UG-c8N9lNanQ)
+ 
+ [Reptile: A Scalable Meta-Learning Algorithm](https://blog.openai.com/reptile/)
+ 
+ [Universal Transformers](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html?m=1)
 
+
+## Slice
+ [Extracting and Modeling Relations with Graph Convolutional Networks](http://202.116.81.74/cache/12/03/www.akbc.ws/c98bae8bd49116c3dcc9546922d94064/ivan-titov-slides.pdf)
 
 ## Related Awesome Lists
 
