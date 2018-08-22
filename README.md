@@ -23,7 +23,7 @@ Awesome list for deep learning on medical research
 ## Lesion Detection
  Deep Lesion Graphs in the Wild, CVPR 2018 [Paper](https://arxiv.org/pdf/1711.10535.pdf)
  
- DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning, JMI 2018 [Paper] (https://arxiv.org/pdf/1710.01766.pdf)
+ DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning, JMI 2018 [Paper](https://arxiv.org/pdf/1710.01766.pdf)
  
  3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection, 	MICCAI 2018 [Paper](https://arxiv.org/pdf/1806.09648.pdf)
 
