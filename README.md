@@ -5,7 +5,7 @@ Awesome list for deep learning on medical research
 - [Dialog Systems](#dialog-systems)
 - [Medical Imaging Reports](#medical-imaging-reports)
 - [Lesion Detection](#lesion-detection)
-- [Knowledge Graph](#knowledge-graph)
+- [Graph Reasoning](#graph-reasoing)
 - [Natural Language Processing](#natural-language-processing)
 - [Challenge](#challenge)
 - [Blog](#blog)
@@ -38,8 +38,9 @@ Awesome list for deep learning on medical research
  [3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection](https://arxiv.org/pdf/1806.09648.pdf), 	MICCAI 2018
 
 
-## Knowledge Graph
+## Graph Reasoning
  [GO FOR A WALK AND ARRIVE AT THE ANSWER](https://arxiv.org/pdf/1711.05851.pdf), ICLR 2018
+ [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](https://arxiv.org/pdf/1806.05662.pdf)
 
 
 ## Natural Language Processing
