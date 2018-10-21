@@ -3,6 +3,7 @@ Awesome list for deep learning on medical research
 
 ## Contents
 - [Dialog Systems](#dialog-systems)
+- [Question Answering Systems](#question-answering-systems)
 - [Medical Imaging Reports](#medical-imaging-reports)
 - [Lesion Detection](#lesion-detection)
 - [Graph Reasoning](#graph-reasoing)
@@ -11,6 +12,8 @@ Awesome list for deep learning on medical research
 - [Blog](#blog)
 - [Slice](#slice)
 - [Website](#website)
+- [Online Resources](#online-resources)
+- [Online Courses](#online-courses)
 - [Related Awesome Lists](#related-awesome-lists)
 
 
@@ -23,7 +26,10 @@ Awesome list for deep learning on medical research
   
  [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings](https://arxiv.org/pdf/1704.07130.pdf), ACL 2017
  
-
+ 
+ 
+ 
+##Question Answering Systems
 
   
 ## Medical Imaging Reports
@@ -71,6 +77,10 @@ Awesome list for deep learning on medical research
  [HUGGING FACE](https://huggingface.co/)
  
  
+## Online Resources
+
+
+## Online Courses
 
 ## Related Awesome Lists
 
