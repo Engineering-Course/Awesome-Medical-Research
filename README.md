@@ -28,57 +28,89 @@ Awesome list for deep learning on medical research
  [Knowledge Diffusion for Neural Dialogue Generation](http://aclweb.org/anthology/P18-1138), ACL 2018 
   
  [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings](https://arxiv.org/pdf/1704.07130.pdf), ACL 2017
+ [KNOWLEDGE-POWERED CONVERSATIONAL AGENTS](https://openreview.net/pdf?id=r1l73iRqKm), ICLR 2019
+ 
+ [GLOBAL-TO-LOCAL MEMORY POINTER NETWORKS FOR TASK-ORIENTED DIALOGUE](https://openreview.net/pdf?id=ryxnHhRqFm), ICLR 2019
+ 
+ [Decoupling Strategy and Generation in Negotiation Dialogues](https://arxiv.org/pdf/1808.09637.pdf)
+ 
+ [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+ 
+ [DIFFERENTIABLE EXPECTED BLEU FOR TEXT GENERATION](https://openreview.net/pdf?id=S1x2aiRqFX), ICLR 2019
+ 
+ [Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access](https://arxiv.org/abs/1809.10735)
  
  
 ## Question Answering Systems
+ [Denoising Distantly Supervised Open-Domain Question Answering](http://aclweb.org/anthology/P18-1161)[code](https://github.com/thunlp/OpenQA), ACL 2018
 
+ [Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders](https://arxiv.org/abs/1805.04843), ACL 2018
+
+ [Interpretation of Natural Language Rules in Conversational Machine Reading](https://arxiv.org/pdf/1809.01494.pdf)
   
+ [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+ 
+ [Improving Question Answering by Commonsense-Based Pre-Training](https://arxiv.org/abs/1809.03568)
+ 
+ 
 ## Medical Imaging Reports
-  [On the Automatic Generation of Medical Imaging Reports](http://aclweb.org/anthology/P18-1240), ACL 2018
+ [On the Automatic Generation of Medical Imaging Reports](http://aclweb.org/anthology/P18-1240), ACL 2018
   
   
 ## Lesion Detection
-  [Deep Lesion Graphs in the Wild](https://arxiv.org/pdf/1711.10535.pdf), CVPR 2018
+ [Deep Lesion Graphs in the Wild](https://arxiv.org/pdf/1711.10535.pdf), CVPR 2018
  
-  [DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning](https://arxiv.org/pdf/1710.01766.pdf), JMI 2018
+ [DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning](https://arxiv.org/pdf/1710.01766.pdf), JMI 2018
  
-  [3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection](https://arxiv.org/pdf/1806.09648.pdf), 	MICCAI 2018
+ [3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection](https://arxiv.org/pdf/1806.09648.pdf), 	MICCAI 2018
+
 
 ## Object Dection
-  [CornerNet: Detecting Objects as Paired Keypoints](https://arxiv.org/pdf/1808.01244.pdf)
+ [CornerNet: Detecting Objects as Paired Keypoints](https://arxiv.org/pdf/1808.01244.pdf)
 
-  [Learning Deep Representations for Visual Recognition](http://kaiminghe.com/cvpr18tutorial/cvpr2018_tutorial_kaiminghe.pdf)
+ [Learning Deep Representations for Visual Recognition](http://kaiminghe.com/cvpr18tutorial/cvpr2018_tutorial_kaiminghe.pdf)
 
-  [Learning Deep Representations for Visual Recognition_Video](https://www.youtube.com/watch?v=jHv37mKAhV4)
+ [Learning Deep Representations for Visual Recognition_Video](https://www.youtube.com/watch?v=jHv37mKAhV4)
 
-
+ [Higher-order Graph Convolutional Networks](https://arxiv.org/abs/1809.07697)
+ 
+ [Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection](https://arxiv.org/abs/1809.08545)
+ 
+  
 ## Graph Reasoning
-  [GO FOR A WALK AND ARRIVE AT THE ANSWER](https://arxiv.org/pdf/1711.05851.pdf), ICLR 2018
+ [GO FOR A WALK AND ARRIVE AT THE ANSWER](https://arxiv.org/pdf/1711.05851.pdf), ICLR 2018
  
-  [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](https://arxiv.org/pdf/1806.05662.pdf)
+ [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](https://arxiv.org/pdf/1806.05662.pdf)
  
+ [Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks](https://arxiv.org/pdf/1809.02040.pdf)
+
+ [GRAPH CONVOLUTIONAL NETWORK WITH SEQUENTIAL ATTENTION FOR GOAL-ORIENTED DIALOGUE SYSTEMS](https://openreview.net/pdf?id=Skz-3j05tm), ICLR 2019
+  
+ [A Qualitative Comparison of CoQA, SQuAD 2.0 and QuAC](https://arxiv.org/abs/1809.10735)
 
 
 ## Natural Language Processing
-  [Universal Transformers](https://arxiv.org/pdf/1807.03819.pdf)
+ [Universal Transformers](https://arxiv.org/pdf/1807.03819.pdf)
  
-
+ [NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies](https://yoavartzi.com/pub/gna-naacl.2018.pdf), NAACL 2018
+ 
+ 
 ## Challenge
-  [Musculoskeletal Radiographs (MURA)](https://stanfordmlgroup.github.io/competitions/mura/)
+ [Musculoskeletal Radiographs (MURA)](https://stanfordmlgroup.github.io/competitions/mura/)
   
-  [The Conversational Intelligence Challenge](http://convai.io/)
+ [The Conversational Intelligence Challenge](http://convai.io/)
   
-  [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news?from=timeline&isappinstalled=0#description)
+ [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news?from=timeline&isappinstalled=0#description)
   
 
 ## Blog
-  [Domain-specific Knowledge Graph](https://mp.weixin.qq.com/s/aoYbTIoLt2UG-c8N9lNanQ)
+ [Domain-specific Knowledge Graph](https://mp.weixin.qq.com/s/aoYbTIoLt2UG-c8N9lNanQ)
   
-  [Reptile: A Scalable Meta-Learning Algorithm](https://blog.openai.com/reptile/)
+ [Reptile: A Scalable Meta-Learning Algorithm](https://blog.openai.com/reptile/)
   
-  [Universal Transformers](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html?m=1)
+ [Universal Transformers](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html?m=1)
   
-  [解决关系推理，从图网络入手！DeepMind图网络库开源](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652029046&idx=3&sn=c3b2e74bade90ad3070f8a215e59ae1f&chksm=f121b487c6563d918eda53a1784ad0638148fe2a285bae533dccd763d2500477debefcdb6fa0&mpshare=1&scene=1&srcid=1019ykk2bhyJUcxLSBuiKDpJ#rd)
+ [解决关系推理，从图网络入手！DeepMind图网络库开源](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652029046&idx=3&sn=c3b2e74bade90ad3070f8a215e59ae1f&chksm=f121b487c6563d918eda53a1784ad0638148fe2a285bae533dccd763d2500477debefcdb6fa0&mpshare=1&scene=1&srcid=1019ykk2bhyJUcxLSBuiKDpJ#rd)
 
 
 ## News
@@ -105,27 +137,37 @@ Awesome list for deep learning on medical research
  
 ## Website
  [National Institutes of Health](https://www.nih.gov/news-events/news-releases/nih-clinical-center-releases-dataset-32000-ct-images)
+ 
  [buoyhealth](https://www.buoyhealth.com/symptoms-a-z/)
+ 
  [HUGGING FACE](https://huggingface.co/)
  
  
+ 
 ## Online Resources
-[Pytorch tutorials](https://pytorch.org/tutorials/)
+ [Pytorch tutorials](https://pytorch.org/tutorials/)
 
-[腾讯AI Lab开源800万中文词的NLP数据集](https://ai.tencent.com/ailab/nlp/embedding.html)
+ [腾讯AI Lab开源800万中文词的NLP数据集](https://ai.tencent.com/ailab/nlp/embedding.html)
 
-[疾病知识图谱提取_工具库](https://rasa.com/)
+ [疾病知识图谱提取_工具库](https://rasa.com/)
 
-[NLP实现工具库](https://www.ltp-cloud.com/)
+ [中文知识图谱LTP库](https://www.ltp-cloud.com/)
 
-[DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/)
+ [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/)
 
-[DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine)
+ [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine)
 
+ [Visual Turing Test](http://visualturingtest.org/)
 
+ [Open QA](https://github.com/thunlp/OpenQA)
 
+ [thunlp NRE]( https://github.com/thunlp/NRE)
+ 
+ [thunlp JointNRE](https://github.com/thunlp/JointNRE)
+ 
+ 
 ## Online Courses
-[MILA 2018夏季深度学习与强化学习课程](https://dlrlsummerschool.ca/)
+ [MILA 2018夏季深度学习与强化学习课程](https://dlrlsummerschool.ca/)
 
 ## Datasets
 
