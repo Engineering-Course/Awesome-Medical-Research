@@ -38,8 +38,11 @@ Awesome list for deep learning on medical research
  
  [DIFFERENTIABLE EXPECTED BLEU FOR TEXT GENERATION](https://openreview.net/pdf?id=S1x2aiRqFX), ICLR 2019
  
- [Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access](https://arxiv.org/abs/1809.10735)
+ [Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access](https://arxiv.org/pdf/1609.00777.pdf)
  
+ [Decoupling Strategy and Generation in Negotiation Dialogues
+](https://arxiv.org/pdf/1808.09637.pdf)
+
  
 ## Question Answering Systems
  [Denoising Distantly Supervised Open-Domain Question Answering](http://aclweb.org/anthology/P18-1161)[code](https://github.com/thunlp/OpenQA), ACL 2018
@@ -51,6 +54,10 @@ Awesome list for deep learning on medical research
  [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
  
  [Improving Question Answering by Commonsense-Based Pre-Training](https://arxiv.org/abs/1809.03568)
+ 
+ [A Qualitative Comparison of CoQA, SQuAD 2.0 and QuAC](https://arxiv.org/abs/1809.10735)
+ 
+ [Learning Visual Knowledge Memory Networks for Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4255.pdf), CVPR 2018
  
  
 ## Medical Imaging Reports
@@ -86,13 +93,18 @@ Awesome list for deep learning on medical research
 
  [GRAPH CONVOLUTIONAL NETWORK WITH SEQUENTIAL ATTENTION FOR GOAL-ORIENTED DIALOGUE SYSTEMS](https://openreview.net/pdf?id=Skz-3j05tm), ICLR 2019
   
- [A Qualitative Comparison of CoQA, SQuAD 2.0 and QuAC](https://arxiv.org/abs/1809.10735)
+ [Neural Natural Language Inference Models Enhanced with External Knowledge ](https://arxiv.org/pdf/1711.04289.pdf)
 
+ [Leveraging Knowledge Bases in LSTMs for Improving Machine Reading](https://www.cs.cmu.edu/~bishan/papers/kblstm_acl2017.pdf), ACL 2017
 
 ## Natural Language Processing
  [Universal Transformers](https://arxiv.org/pdf/1807.03819.pdf)
  
  [NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies](https://yoavartzi.com/pub/gna-naacl.2018.pdf), NAACL 2018
+ 
+ [Contextual and Structural Language](https://pdfs.semanticscholar.org/e86b/b512325f4e6b39446337999b8c9933867649.pdf)
+ 
+ [Knowledge as a Teacher: Knowledge-Guided Structural Attention Networks](https://arxiv.org/pdf/1609.03286.pdf)
  
  
 ## Challenge
@@ -165,13 +177,14 @@ Awesome list for deep learning on medical research
  
  [thunlp JointNRE](https://github.com/thunlp/JointNRE)
  
+ [VIPL](http://vipl.ict.ac.cn/view_database.php?id=14)
  
 ## Online Courses
  [MILA 2018夏季深度学习与强化学习课程](https://dlrlsummerschool.ca/)
 
 ## Datasets
-
-
+ [Medical segmentation decathlon](http://medicaldecathlon.com/)
+ [BRATS 2018](https://www.med.upenn.edu/sbia/brats2018/data.html)
 
 ## Related Awesome Lists
 
