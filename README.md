@@ -65,8 +65,11 @@ Awesome list for deep learning on medical research
 
 ## Challenge
   [Musculoskeletal Radiographs (MURA)](https://stanfordmlgroup.github.io/competitions/mura/)
+  
   [The Conversational Intelligence Challenge](http://convai.io/)
+  
   [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news?from=timeline&isappinstalled=0#description)
+  
 
 ## Blog
   [Domain-specific Knowledge Graph](https://mp.weixin.qq.com/s/aoYbTIoLt2UG-c8N9lNanQ)
@@ -108,11 +111,17 @@ Awesome list for deep learning on medical research
  
 ## Online Resources
 [Pytorch tutorials](https://pytorch.org/tutorials/)
+
 [腾讯AI Lab开源800万中文词的NLP数据集](https://ai.tencent.com/ailab/nlp/embedding.html)
+
 [疾病知识图谱提取_工具库](https://rasa.com/)
+
 [NLP实现工具库](https://www.ltp-cloud.com/)
+
 [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/)
+
 [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine)
+
 
 
 ## Online Courses
@@ -125,9 +134,13 @@ Awesome list for deep learning on medical research
 ## Related Awesome Lists
 
 * [Awesome-Deepbio](https://github.com/gokceneraslan/awesome-deepbio)
+
 * [Awesome-Medical-Imaging](https://github.com/seokkim/Awesome-Medical-Imaging)
+
 * [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
+
 * [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)
+
 
 
 
