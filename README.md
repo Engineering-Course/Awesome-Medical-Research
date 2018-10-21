@@ -83,6 +83,8 @@ Awesome list for deep learning on medical research
  
  [Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection](https://arxiv.org/abs/1809.08545)
  
+ [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](https://arxiv.org/pdf/1809.04184.pdf)
+ 
   
 ## Graph Reasoning
  [GO FOR A WALK AND ARRIVE AT THE ANSWER](https://arxiv.org/pdf/1711.05851.pdf), ICLR 2018
