@@ -97,6 +97,7 @@ Awesome list for deep learning on medical research
 
  [Leveraging Knowledge Bases in LSTMs for Improving Machine Reading](https://www.cs.cmu.edu/~bishan/papers/kblstm_acl2017.pdf), ACL 2017
 
+
 ## Natural Language Processing
  [Universal Transformers](https://arxiv.org/pdf/1807.03819.pdf)
  
@@ -179,12 +180,24 @@ Awesome list for deep learning on medical research
  
  [VIPL](http://vipl.ict.ac.cn/view_database.php?id=14)
  
+ [Machine Common Sense Concept Paper](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/1810.07528.pdf)
+ 
+ [Learning the Joint Representation of Heterogeneous Temporal Events for Clinical Endpoint Prediction](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/EHR%40UCLA.pdf)
+ 
+ [张铭知识学习和计算推理.pdf](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/%E5%BC%A0%E9%93%AD%E7%9F%A5%E8%AF%86%E5%AD%A6%E4%B9%A0%E5%92%8C%E8%AE%A1%E7%AE%97%E6%8E%A8%E7%90%86.pdf)
+ 
+ [钟宛君-Improving question answering by commonsense-show.pdf](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/%E9%92%9F%E5%AE%9B%E5%90%9B-Improving%20question%20answering%20by%20commonsense-show.pdf)
+ 
+ 
 ## Online Courses
  [MILA 2018夏季深度学习与强化学习课程](https://dlrlsummerschool.ca/)
 
+
 ## Datasets
  [Medical segmentation decathlon](http://medicaldecathlon.com/)
+
  [BRATS 2018](https://www.med.upenn.edu/sbia/brats2018/data.html)
+
 
 ## Related Awesome Lists
 
