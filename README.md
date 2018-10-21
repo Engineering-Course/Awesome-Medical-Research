@@ -70,9 +70,13 @@ Awesome list for deep learning on medical research
 
 ## Blog
   [Domain-specific Knowledge Graph](https://mp.weixin.qq.com/s/aoYbTIoLt2UG-c8N9lNanQ)
+  
   [Reptile: A Scalable Meta-Learning Algorithm](https://blog.openai.com/reptile/)
+  
   [Universal Transformers](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html?m=1)
+  
   [解决关系推理，从图网络入手！DeepMind图网络库开源](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652029046&idx=3&sn=c3b2e74bade90ad3070f8a215e59ae1f&chksm=f121b487c6563d918eda53a1784ad0638148fe2a285bae533dccd763d2500477debefcdb6fa0&mpshare=1&scene=1&srcid=1019ykk2bhyJUcxLSBuiKDpJ#rd)
+
 
 ## News
  [人工智能将替代人力？](https://mp.weixin.qq.com/s?__biz=MzI5NzM4MzY3NA==&mid=2247485226&idx=1&sn=50f4152b12066f14c7176d9dcd6d7382&chksm=ecb4a4bfdbc32da91e7e1ea7d8505fbd6775bc4ed9550dc2d1abcfcc5793baf26445ee2442d8&mpshare=1&scene=1&srcid=0905eLsjZ1hH16ulksTSJNeZ#rd)
