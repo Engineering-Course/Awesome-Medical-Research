@@ -28,6 +28,7 @@ Awesome list for deep learning on medical research
  [Knowledge Diffusion for Neural Dialogue Generation](http://aclweb.org/anthology/P18-1138), ACL 2018 
   
  [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings](https://arxiv.org/pdf/1704.07130.pdf), ACL 2017
+ 
  [KNOWLEDGE-POWERED CONVERSATIONAL AGENTS](https://openreview.net/pdf?id=r1l73iRqKm), ICLR 2019
  
  [GLOBAL-TO-LOCAL MEMORY POINTER NETWORKS FOR TASK-ORIENTED DIALOGUE](https://openreview.net/pdf?id=ryxnHhRqFm), ICLR 2019
@@ -210,9 +211,6 @@ Awesome list for deep learning on medical research
 * [Awesome GAN for Medical Imaging](https://github.com/xinario/awesome-gan-for-medical-imaging)
 
 * [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)
-
-
-
 
 
 ## License
