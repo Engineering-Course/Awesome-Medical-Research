@@ -23,54 +23,49 @@ Awesome list for deep learning on medical research
 ## Dialog Systems
  Task-oriented Dialogue System for Automatic Diagnosis [(link)](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf) [(code)](https://github.com/LiuQL2/MedicalChatbot), ACL 2018
  
- [Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](http://aclweb.org/anthology/P18-1136), ACL 2018
+ Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems [(link)](http://aclweb.org/anthology/P18-1136) [(code)](https://github.com/HLTCHKUST/Mem2Seq), ACL 2018
   
- [Knowledge Diffusion for Neural Dialogue Generation](http://aclweb.org/anthology/P18-1138), ACL 2018 
+ Knowledge Diffusion for Neural Dialogue Generation [(link)](http://aclweb.org/anthology/P18-1138) [(code)](https://github.com/jiweil/Neural-Dialogue-Generation), ACL 2018 
   
- [Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings](https://arxiv.org/pdf/1704.07130.pdf), ACL 2017
+ Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings [(link)](https://arxiv.org/pdf/1704.07130.pdf) [(code)](https://github.com/stanfordnlp/cocoa), ACL 2017
  
- [KNOWLEDGE-POWERED CONVERSATIONAL AGENTS](https://openreview.net/pdf?id=r1l73iRqKm), ICLR 2019
+ KNOWLEDGE-POWERED CONVERSATIONAL AGENTS [(link)](https://openreview.net/pdf?id=r1l73iRqKm) [(related code)](https://github.com/GetStoryline/awesome-bots) [(related code)](https://github.com/ricsinaruto/Seq2seqChatbots), ICLR 2019
  
- [GLOBAL-TO-LOCAL MEMORY POINTER NETWORKS FOR TASK-ORIENTED DIALOGUE](https://openreview.net/pdf?id=ryxnHhRqFm), ICLR 2019
+ GLOBAL-TO-LOCAL MEMORY POINTER NETWORKS FOR TASK-ORIENTED DIALOGUE [(link)](https://openreview.net/pdf?id=ryxnHhRqFm), ICLR 2019
  
- [Decoupling Strategy and Generation in Negotiation Dialogues](https://arxiv.org/pdf/1808.09637.pdf)
+ Decoupling Strategy and Generation in Negotiation Dialogues [(link)](https://arxiv.org/pdf/1808.09637.pdf)
  
- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+ BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [(link)](https://arxiv.org/abs/1810.04805) [(code)](https://github.com/codertimo/BERT-pytorch)
  
- [DIFFERENTIABLE EXPECTED BLEU FOR TEXT GENERATION](https://openreview.net/pdf?id=S1x2aiRqFX), ICLR 2019
+ DIFFERENTIABLE EXPECTED BLEU FOR TEXT GENERATION [(link)](https://openreview.net/pdf?id=S1x2aiRqFX), ICLR 2019
  
- [Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access](https://arxiv.org/pdf/1609.00777.pdf)
- 
- [Decoupling Strategy and Generation in Negotiation Dialogues
-](https://arxiv.org/pdf/1808.09637.pdf)
+ Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access [(link)](https://arxiv.org/pdf/1609.00777.pdf) [(code)](https://github.com/MiuLab/KB-InfoBot)
 
  
 ## Question Answering Systems
- [Denoising Distantly Supervised Open-Domain Question Answering](http://aclweb.org/anthology/P18-1161)[code](https://github.com/thunlp/OpenQA), ACL 2018
+ Denoising Distantly Supervised Open-Domain Question Answering [(link)](http://aclweb.org/anthology/P18-1161) [(code)](https://github.com/thunlp/OpenQA), ACL 2018
 
- [Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders](https://arxiv.org/abs/1805.04843), ACL 2018
+ Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders [(link)](https://arxiv.org/abs/1805.04843) [(code)](https://github.com/victorywys/Learning2Ask_TypedDecoder), ACL 2018
 
- [Interpretation of Natural Language Rules in Conversational Machine Reading](https://arxiv.org/pdf/1809.01494.pdf)
+ Interpretation of Natural Language Rules in Conversational Machine Reading [(link)](https://arxiv.org/pdf/1809.01494.pdf) [(code)]()
   
- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+ Improving Question Answering by Commonsense-Based Pre-Training [(link)](https://arxiv.org/abs/1809.03568) [(related code)](https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md)
  
- [Improving Question Answering by Commonsense-Based Pre-Training](https://arxiv.org/abs/1809.03568)
+ A Qualitative Comparison of CoQA, SQuAD 2.0 and QuAC [(link)](https://arxiv.org/abs/1809.10735)
  
- [A Qualitative Comparison of CoQA, SQuAD 2.0 and QuAC](https://arxiv.org/abs/1809.10735)
- 
- [Learning Visual Knowledge Memory Networks for Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4255.pdf), CVPR 2018
+ Learning Visual Knowledge Memory Networks for Visual Question Answering [(link)](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/4255.pdf) [(related code)](https://github.com/JamesChuanggg/awesome-vqa), CVPR 2018
  
  
 ## Medical Imaging Reports
- [On the Automatic Generation of Medical Imaging Reports](http://aclweb.org/anthology/P18-1240), ACL 2018
+ On the Automatic Generation of Medical Imaging Reports [(link)](http://aclweb.org/anthology/P18-1240) [(code)](https://github.com/ZexinYan/Medical-Report-Generation), ACL 2018
   
   
 ## Lesion Detection
- [Deep Lesion Graphs in the Wild](https://arxiv.org/pdf/1711.10535.pdf), CVPR 2018
+ Deep Lesion Graphs in the Wild [(link)](https://arxiv.org/pdf/1711.10535.pdf) [(code)](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE), CVPR 2018
  
- [DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning](https://arxiv.org/pdf/1710.01766.pdf), JMI 2018
+ DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning [(link)](https://arxiv.org/pdf/1710.01766.pdf) [(code)](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE), JMI 2018
  
- [3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection](https://arxiv.org/pdf/1806.09648.pdf), 	MICCAI 2018
+ 3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection [(link)](https://arxiv.org/pdf/1806.09648.pdf) [(code)], 	MICCAI 2018
 
 
 ## Object Dection
