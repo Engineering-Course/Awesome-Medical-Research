@@ -141,6 +141,8 @@ Awesome list for deep learning on medical research
 
 * [CVPR2019专属，免费GPU机时开放中](https://mp.weixin.qq.com/s?__biz=MzI5Nzk5NjYyOA==&mid=2247484273&idx=1&sn=5ad46c075e6e6398afc3192d7f8fc0b9&chksm=ecaddb4adbda525c750e87d077704cfa224ac8a8d534704792697f83f49fda1b8efb5a1bbed4&mpshare=1&scene=1&srcid=10174NGMpJ1l0GipiZAuVybE#rd)
 
+* [清华大学电子系吴及等在智慧医疗领域取得重要进展]       (http://news.tsinghua.edu.cn/publish/thunews/10303/2018/20181022085238111884562/20181022085238111884562_.html?from=singlemessage&isappinstalled=0)
+
 
 ## Slides
 * [Extracting and Modeling Relations with Graph Convolutional Networks](http://202.116.81.74/cache/12/03/www.akbc.ws/c98bae8bd49116c3dcc9546922d94064/ivan-titov-slides.pdf)
