@@ -25,7 +25,7 @@ Awesome list for deep learning on medical research
  
  Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems [(link)](http://aclweb.org/anthology/P18-1136) [(code)](https://github.com/HLTCHKUST/Mem2Seq), ACL 2018
   
- Knowledge Diffusion for Neural Dialogue Generation [(link)](http://aclweb.org/anthology/P18-1138) [(code)](https://github.com/jiweil/Neural-Dialogue-Generation), ACL 2018 
+ Knowledge Diffusion for Neural Dialogue Generation [`(link)`](http://aclweb.org/anthology/P18-1138) [(code)](https://github.com/jiweil/Neural-Dialogue-Generation), ACL 2018 
   
  Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings [(link)](https://arxiv.org/pdf/1704.07130.pdf) [(code)](https://github.com/stanfordnlp/cocoa), ACL 2017
  
