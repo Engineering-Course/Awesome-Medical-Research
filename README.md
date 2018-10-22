@@ -21,9 +21,9 @@ Awesome list for deep learning on medical research
 
 
 ## Dialog Systems
-* Task-oriented Dialogue System for Automatic Diagnosis [`ACL 2018`](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf) [`code`)](https://github.com/LiuQL2/MedicalChatbot)
+* Task-oriented Dialogue System for Automatic Diagnosis [`ACL 2018`](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf) [`code`](https://github.com/LiuQL2/MedicalChatbot)
  
-* Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems [`ACL 2018`](http://aclweb.org/anthology/P18-1136) [`code`)](https://github.com/HLTCHKUST/Mem2Seq)
+* Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems [`ACL 2018`](http://aclweb.org/anthology/P18-1136) [`code`](https://github.com/HLTCHKUST/Mem2Seq)
   
 * Knowledge Diffusion for Neural Dialogue Generation [`ACL 2018`](http://aclweb.org/anthology/P18-1138) [`code`](https://github.com/jiweil/Neural-Dialogue-Generation) 
   
@@ -156,6 +156,14 @@ Awesome list for deep learning on medical research
  
  
 ## Online Resources
+ [Open QA](https://github.com/thunlp/OpenQA)
+
+ [thunlp NRE]( https://github.com/thunlp/NRE)
+ 
+ [thunlp JointNRE](https://github.com/thunlp/JointNRE)
+ 
+ [VIPL](http://vipl.ict.ac.cn/view_database.php?id=14)
+ 
  [Pytorch tutorials](https://pytorch.org/tutorials/)
 
  [腾讯AI Lab开源800万中文词的NLP数据集](https://ai.tencent.com/ailab/nlp/embedding.html)
@@ -169,14 +177,6 @@ Awesome list for deep learning on medical research
  [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine)
 
  [Visual Turing Test](http://visualturingtest.org/)
-
- [Open QA](https://github.com/thunlp/OpenQA)
-
- [thunlp NRE]( https://github.com/thunlp/NRE)
- 
- [thunlp JointNRE](https://github.com/thunlp/JointNRE)
- 
- [VIPL](http://vipl.ict.ac.cn/view_database.php?id=14)
  
  [Machine Common Sense Concept Paper](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/1810.07528.pdf)
  
