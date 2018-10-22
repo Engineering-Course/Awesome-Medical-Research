@@ -21,7 +21,7 @@ Awesome list for deep learning on medical research
 
 
 ## Dialog Systems
- [Task-oriented Dialogue System for Automatic Diagnosis](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf), ACL 2018
+ Task-oriented Dialogue System for Automatic Diagnosis[link](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf)[code](https://github.com/LiuQL2/MedicalChatbot), ACL 2018
  
  [Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems](http://aclweb.org/anthology/P18-1136), ACL 2018
   
