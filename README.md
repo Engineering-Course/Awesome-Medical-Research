@@ -12,7 +12,7 @@ Awesome list for deep learning on medical research
 - [Challenge](#challenge)
 - [Blog](#blog)
 - [News](#news)
-- [Slice](#slice)
+- [Slides](#slides)
 - [Website](#website)
 - [Online Resources](#online-resources)
 - [Online Courses](#online-courses)
