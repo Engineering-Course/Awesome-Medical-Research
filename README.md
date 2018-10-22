@@ -65,45 +65,45 @@ Awesome list for deep learning on medical research
  
  DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning [(link)](https://arxiv.org/pdf/1710.01766.pdf) [(code)](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE), JMI 2018
  
- 3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection [(link)](https://arxiv.org/pdf/1806.09648.pdf) [(code)], 	MICCAI 2018
+ 3D Context Enhanced Region-based Convolutional Neural Network for End-to-End Lesion Detection [(link)](https://arxiv.org/pdf/1806.09648.pdf) [(code)](https://github.com/rsummers11/CADLab/tree/master/lesion_detector_3DCE), 	MICCAI 2018
 
 
 ## Object Dection
- [CornerNet: Detecting Objects as Paired Keypoints](https://arxiv.org/pdf/1808.01244.pdf)
+ CornerNet: Detecting Objects as Paired Keypoints [(link)](https://arxiv.org/pdf/1808.01244.pdf) [(code)](https://github.com/princeton-vl/CornerNet)
 
- [Learning Deep Representations for Visual Recognition](http://kaiminghe.com/cvpr18tutorial/cvpr2018_tutorial_kaiminghe.pdf)
+ Learning Deep Representations for Visual Recognition [(link)](http://kaiminghe.com/cvpr18tutorial/cvpr2018_tutorial_kaiminghe.pdf) [(related code)](https://github.com/reedscot/cvpr2016) [(video)](https://www.youtube.com/watch?v=jHv37mKAhV4), CVPR 2018
 
- [Learning Deep Representations for Visual Recognition_Video](https://www.youtube.com/watch?v=jHv37mKAhV4)
-
- [Higher-order Graph Convolutional Networks](https://arxiv.org/abs/1809.07697)
+ Higher-order Graph Convolutional Networks [(link)](https://arxiv.org/abs/1809.07697) [(related code)](https://github.com/tkipf/gcn) [(related code)](https://github.com/tkipf/keras-gcn) [(related code)](https://github.com/tkipf/pygcn)
  
- [Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection](https://arxiv.org/abs/1809.08545)
+ Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection [(link)](https://arxiv.org/abs/1809.08545) [(code)](https://github.com/yihui-he/softer-NMS)
  
- [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](https://arxiv.org/pdf/1809.04184.pdf)
- 
+ Searching for Efficient Multi-Scale Architectures for Dense Image Prediction [(link)](https://arxiv.org/pdf/1809.04184.pdf) [(code)]()
+ [(related code)](https://github.com/tensorflow/models/tree/master/research/deeplab) [(related)](https://github.com/bonlime/keras-deeplab-v3-plus)
   
 ## Graph Reasoning
- [GO FOR A WALK AND ARRIVE AT THE ANSWER](https://arxiv.org/pdf/1711.05851.pdf), ICLR 2018
+ GO FOR A WALK AND ARRIVE AT THE ANSWER [(link)](https://arxiv.org/pdf/1711.05851.pdf) [(code)](https://github.com/shehzaadzd/MINERVA), ICLR 2018
  
- [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](https://arxiv.org/pdf/1806.05662.pdf)
+ GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations [(link)](https://arxiv.org/pdf/1806.05662.pdf)
  
- [Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks](https://arxiv.org/pdf/1809.02040.pdf)
+ Exploring Graph-structured Passage Representation for Multi-hop Reading Comprehension with Graph Neural Networks [(link)](https://arxiv.org/pdf/1809.02040.pdf) [(related link)](https://github.com/shagunsodhani/Graph-Reading-Group)
 
- [GRAPH CONVOLUTIONAL NETWORK WITH SEQUENTIAL ATTENTION FOR GOAL-ORIENTED DIALOGUE SYSTEMS](https://openreview.net/pdf?id=Skz-3j05tm), ICLR 2019
+ GRAPH CONVOLUTIONAL NETWORK WITH SEQUENTIAL ATTENTION FOR GOAL-ORIENTED DIALOGUE SYSTEMS [(link)](https://openreview.net/pdf?id=Skz-3j05tm), ICLR 2019
   
- [Neural Natural Language Inference Models Enhanced with External Knowledge ](https://arxiv.org/pdf/1711.04289.pdf)
+ Neural Natural Language Inference Models Enhanced with External Knowledge [(link)](https://arxiv.org/pdf/1711.04289.pdf) [(code)](https://github.com/feifengwhu/NLP_External_knowledge)
 
- [Leveraging Knowledge Bases in LSTMs for Improving Machine Reading](https://www.cs.cmu.edu/~bishan/papers/kblstm_acl2017.pdf), ACL 2017
+ Enhanced LSTM for Natural Language Inference [(link)](https://arxiv.org/abs/1609.06038) [(code)](https://github.com/lukecq1231/nli)
+
+ Leveraging Knowledge Bases in LSTMs for Improving Machine Reading [(link)](https://www.cs.cmu.edu/~bishan/papers/kblstm_acl2017.pdf), ACL 2017
 
 
 ## Natural Language Processing
- [Universal Transformers](https://arxiv.org/pdf/1807.03819.pdf)
+ Universal Transformers [(link)](https://arxiv.org/pdf/1807.03819.pdf) [(code)](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)
  
- [NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies](https://yoavartzi.com/pub/gna-naacl.2018.pdf), NAACL 2018
+ NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies [(link)](https://yoavartzi.com/pub/gna-naacl.2018.pdf) [(code)](https://github.com/clic-lab/newsroom), NAACL 2018
  
- [Contextual and Structural Language](https://pdfs.semanticscholar.org/e86b/b512325f4e6b39446337999b8c9933867649.pdf)
+ Contextual and Structural Language [(link)](https://pdfs.semanticscholar.org/e86b/b512325f4e6b39446337999b8c9933867649.pdf)
  
- [Knowledge as a Teacher: Knowledge-Guided Structural Attention Networks](https://arxiv.org/pdf/1609.03286.pdf)
+ Knowledge as a Teacher: Knowledge-Guided Structural Attention Networks [(link)](https://arxiv.org/pdf/1609.03286.pdf)
  
  
 ## Challenge
