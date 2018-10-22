@@ -57,7 +57,7 @@ Awesome list for deep learning on medical research
  
  
 ## Medical Imaging Reports
-* On the Automatic Generation of Medical Imaging Reports [`ACL 2018`)](http://aclweb.org/anthology/P18-1240) [`code`](https://github.com/ZexinYan/Medical-Report-Generation)
+* On the Automatic Generation of Medical Imaging Reports [`ACL 2018`](http://aclweb.org/anthology/P18-1240) [`code`](https://github.com/ZexinYan/Medical-Report-Generation)
   
   
 ## Lesion Detection
@@ -107,94 +107,94 @@ Awesome list for deep learning on medical research
  
  
 ## Challenge
- [Musculoskeletal Radiographs (MURA)](https://stanfordmlgroup.github.io/competitions/mura/)
+* [Musculoskeletal Radiographs (MURA)](https://stanfordmlgroup.github.io/competitions/mura/)
   
- [The Conversational Intelligence Challenge](http://convai.io/)
+* [The Conversational Intelligence Challenge](http://convai.io/)
   
- [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news?from=timeline&isappinstalled=0#description)
+* [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news?from=timeline&isappinstalled=0#description)
   
 
 ## Blog
- [Domain-specific Knowledge Graph](https://mp.weixin.qq.com/s/aoYbTIoLt2UG-c8N9lNanQ)
+* [Domain-specific Knowledge Graph](https://mp.weixin.qq.com/s/aoYbTIoLt2UG-c8N9lNanQ)
   
- [Reptile: A Scalable Meta-Learning Algorithm](https://blog.openai.com/reptile/)
+* [Reptile: A Scalable Meta-Learning Algorithm](https://blog.openai.com/reptile/)
   
- [Universal Transformers](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html?m=1)
+* [Universal Transformers](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html?m=1)
   
- [解决关系推理，从图网络入手！DeepMind图网络库开源](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652029046&idx=3&sn=c3b2e74bade90ad3070f8a215e59ae1f&chksm=f121b487c6563d918eda53a1784ad0638148fe2a285bae533dccd763d2500477debefcdb6fa0&mpshare=1&scene=1&srcid=1019ykk2bhyJUcxLSBuiKDpJ#rd)
+* [解决关系推理，从图网络入手！DeepMind图网络库开源](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652029046&idx=3&sn=c3b2e74bade90ad3070f8a215e59ae1f&chksm=f121b487c6563d918eda53a1784ad0638148fe2a285bae533dccd763d2500477debefcdb6fa0&mpshare=1&scene=1&srcid=1019ykk2bhyJUcxLSBuiKDpJ#rd)
 
 
 ## News
- [人工智能将替代人力？](https://mp.weixin.qq.com/s?__biz=MzI5NzM4MzY3NA==&mid=2247485226&idx=1&sn=50f4152b12066f14c7176d9dcd6d7382&chksm=ecb4a4bfdbc32da91e7e1ea7d8505fbd6775bc4ed9550dc2d1abcfcc5793baf26445ee2442d8&mpshare=1&scene=1&srcid=0905eLsjZ1hH16ulksTSJNeZ#rd)
+* [人工智能将替代人力？](https://mp.weixin.qq.com/s?__biz=MzI5NzM4MzY3NA==&mid=2247485226&idx=1&sn=50f4152b12066f14c7176d9dcd6d7382&chksm=ecb4a4bfdbc32da91e7e1ea7d8505fbd6775bc4ed9550dc2d1abcfcc5793baf26445ee2442d8&mpshare=1&scene=1&srcid=0905eLsjZ1hH16ulksTSJNeZ#rd)
 
- [NIPS 2018丨解读微软亚洲研究院10篇入选论文](https://www.toutiao.com/i6598481166263648782/?tt_from=weixin_moments&utm_campaign=client_share&wxshare_count=3&from=groupmessage&timestamp=1536369175&app=news_article&utm_source=weixin_moments&isappinstalled=0&iid=43039538819&utm_medium=toutiao_ios&group_id=6598481166263648782&pbid=6578657786972259843)
+* [NIPS 2018丨解读微软亚洲研究院10篇入选论文](https://www.toutiao.com/i6598481166263648782/?tt_from=weixin_moments&utm_campaign=client_share&wxshare_count=3&from=groupmessage&timestamp=1536369175&app=news_article&utm_source=weixin_moments&isappinstalled=0&iid=43039538819&utm_medium=toutiao_ios&group_id=6598481166263648782&pbid=6578657786972259843)
 
- [资源 | 让AI学会刨根问底和放飞自我，斯坦福最新问答数据集CoQA](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650748340&idx=2&sn=698d95c59f523ab627b465666932675e&chksm=871af1cab06d78dcf24d54977a92ebf6e90cdba7f76cfb4914db355d25afc3dde3cd8a43e015&mpshare=1&scene=1&srcid=0911JhbB1aS9zdqce2VWnLKG#rd)
+* [资源 | 让AI学会刨根问底和放飞自我，斯坦福最新问答数据集CoQA](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650748340&idx=2&sn=698d95c59f523ab627b465666932675e&chksm=871af1cab06d78dcf24d54977a92ebf6e90cdba7f76cfb4914db355d25afc3dde3cd8a43e015&mpshare=1&scene=1&srcid=0911JhbB1aS9zdqce2VWnLKG#rd)
 
- [MICCAI2018吸睛文集](https://mp.weixin.qq.com/s?__biz=MzU5OTczMDk3NA==&mid=2247483718&idx=1&sn=6eb5da934fd28e0096b8c8b664a3645f&chksm=feb13f37c9c6b621e89fa37aa096d6df24fb47fedc5a5db428a8fc5f222f7e11a3ba90d20b85&mpshare=1&scene=1&srcid=0928NUGfitj9rnoazeXVsaWk#rd)
+* [MICCAI2018吸睛文集](https://mp.weixin.qq.com/s?__biz=MzU5OTczMDk3NA==&mid=2247483718&idx=1&sn=6eb5da934fd28e0096b8c8b664a3645f&chksm=feb13f37c9c6b621e89fa37aa096d6df24fb47fedc5a5db428a8fc5f222f7e11a3ba90d20b85&mpshare=1&scene=1&srcid=0928NUGfitj9rnoazeXVsaWk#rd)
 
- [MIT研发神经网络模型，可通过处理采访的原始文本和音频数据，判断抑郁倾向](https://mp.weixin.qq.com/s?__biz=MzAxMzc2NDAxOQ==&mid=2650368952&idx=1&sn=b06a8ca3c426a714b50ef6bb477648cf&chksm=83905f64b4e7d67298462f5057695909b51ac892a8571f309edc0296595b21f07c577479f7ad&mpshare=1&scene=1&srcid=0921PCGtzOhNFCgg8CqEEXg1#rd)
+* [MIT研发神经网络模型，可通过处理采访的原始文本和音频数据，判断抑郁倾向](https://mp.weixin.qq.com/s?__biz=MzAxMzc2NDAxOQ==&mid=2650368952&idx=1&sn=b06a8ca3c426a714b50ef6bb477648cf&chksm=83905f64b4e7d67298462f5057695909b51ac892a8571f309edc0296595b21f07c577479f7ad&mpshare=1&scene=1&srcid=0921PCGtzOhNFCgg8CqEEXg1#rd)
 
- [开复老师、AI Challenger携手进校园](https://mp.weixin.qq.com/s?__biz=MzU2ODM2OTQ1MQ==&mid=2247483997&idx=1&sn=e446cabdaa44109a4775dd6179fb7a1c&chksm=fc8e4a19cbf9c30fb211c404e438db354f94dd0f4ab8924fd94c253e224d48b4e813612227d3&mpshare=1&scene=1&srcid=1009OWNlopGDsb4eLQC3X9oR#rd)
+* [开复老师、AI Challenger携手进校园](https://mp.weixin.qq.com/s?__biz=MzU2ODM2OTQ1MQ==&mid=2247483997&idx=1&sn=e446cabdaa44109a4775dd6179fb7a1c&chksm=fc8e4a19cbf9c30fb211c404e438db354f94dd0f4ab8924fd94c253e224d48b4e813612227d3&mpshare=1&scene=1&srcid=1009OWNlopGDsb4eLQC3X9oR#rd)
 
- [谷歌BERT模型狂破11项纪录，全面超越人类](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652028621&idx=1&sn=5366f2a95bc19862af2c4bbd468ccc19&chksm=f121ca3cc656432aeb0a8ed60bd60a18ffaa977965bc4b8166f70dc119c34bc02094c3905256&mpshare=1&scene=1&srcid=1013Yqp5ngQd7LRqMF8brFhC#rd)
+* [谷歌BERT模型狂破11项纪录，全面超越人类](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652028621&idx=1&sn=5366f2a95bc19862af2c4bbd468ccc19&chksm=f121ca3cc656432aeb0a8ed60bd60a18ffaa977965bc4b8166f70dc119c34bc02094c3905256&mpshare=1&scene=1&srcid=1013Yqp5ngQd7LRqMF8brFhC#rd)
 
- [CVPR2019专属，免费GPU机时开放中](https://mp.weixin.qq.com/s?__biz=MzI5Nzk5NjYyOA==&mid=2247484273&idx=1&sn=5ad46c075e6e6398afc3192d7f8fc0b9&chksm=ecaddb4adbda525c750e87d077704cfa224ac8a8d534704792697f83f49fda1b8efb5a1bbed4&mpshare=1&scene=1&srcid=10174NGMpJ1l0GipiZAuVybE#rd)
+* [CVPR2019专属，免费GPU机时开放中](https://mp.weixin.qq.com/s?__biz=MzI5Nzk5NjYyOA==&mid=2247484273&idx=1&sn=5ad46c075e6e6398afc3192d7f8fc0b9&chksm=ecaddb4adbda525c750e87d077704cfa224ac8a8d534704792697f83f49fda1b8efb5a1bbed4&mpshare=1&scene=1&srcid=10174NGMpJ1l0GipiZAuVybE#rd)
 
 
 ## Slides
- [Extracting and Modeling Relations with Graph Convolutional Networks](http://202.116.81.74/cache/12/03/www.akbc.ws/c98bae8bd49116c3dcc9546922d94064/ivan-titov-slides.pdf)
+* [Extracting and Modeling Relations with Graph Convolutional Networks](http://202.116.81.74/cache/12/03/www.akbc.ws/c98bae8bd49116c3dcc9546922d94064/ivan-titov-slides.pdf)
  
  
 ## Website
- [National Institutes of Health](https://www.nih.gov/news-events/news-releases/nih-clinical-center-releases-dataset-32000-ct-images)
+* [National Institutes of Health](https://www.nih.gov/news-events/news-releases/nih-clinical-center-releases-dataset-32000-ct-images)
  
- [buoyhealth](https://www.buoyhealth.com/symptoms-a-z/)
+* [buoyhealth](https://www.buoyhealth.com/symptoms-a-z/)
  
- [HUGGING FACE](https://huggingface.co/)
+* [HUGGING FACE](https://huggingface.co/)
  
  
  
 ## Online Resources
- [Open QA](https://github.com/thunlp/OpenQA)
+* [Open QA](https://github.com/thunlp/OpenQA)
 
- [thunlp NRE]( https://github.com/thunlp/NRE)
+* [thunlp NRE]( https://github.com/thunlp/NRE)
  
- [thunlp JointNRE](https://github.com/thunlp/JointNRE)
+* [thunlp JointNRE](https://github.com/thunlp/JointNRE)
  
- [VIPL](http://vipl.ict.ac.cn/view_database.php?id=14)
+* [VIPL](http://vipl.ict.ac.cn/view_database.php?id=14)
  
- [Pytorch tutorials](https://pytorch.org/tutorials/)
+* [Pytorch tutorials](https://pytorch.org/tutorials/)
 
- [腾讯AI Lab开源800万中文词的NLP数据集](https://ai.tencent.com/ailab/nlp/embedding.html)
+* [腾讯AI Lab开源800万中文词的NLP数据集](https://ai.tencent.com/ailab/nlp/embedding.html)
 
- [疾病知识图谱提取_工具库](https://rasa.com/)
+* [疾病知识图谱提取_工具库](https://rasa.com/)
 
- [中文知识图谱LTP库](https://www.ltp-cloud.com/)
+* [中文知识图谱LTP库](https://www.ltp-cloud.com/)
 
- [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/)
+* [DeepMind开源强化学习库“松露”](https://github.com/deepmind/trfl/)
 
- [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine)
+* [DeepMind开源强化学习库“多巴胺”](https://github.com/google/dopamine)
 
- [Visual Turing Test](http://visualturingtest.org/)
+* [Visual Turing Test](http://visualturingtest.org/)
  
- [Machine Common Sense Concept Paper](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/1810.07528.pdf)
+* [Machine Common Sense Concept Paper](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/1810.07528.pdf)
  
- [Learning the Joint Representation of Heterogeneous Temporal Events for Clinical Endpoint Prediction](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/EHR%40UCLA.pdf)
+* [Learning the Joint Representation of Heterogeneous Temporal Events for Clinical Endpoint Prediction](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/EHR%40UCLA.pdf)
  
- [张铭知识学习和计算推理.pdf](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/%E5%BC%A0%E9%93%AD%E7%9F%A5%E8%AF%86%E5%AD%A6%E4%B9%A0%E5%92%8C%E8%AE%A1%E7%AE%97%E6%8E%A8%E7%90%86.pdf)
+* [张铭知识学习和计算推理.pdf](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/%E5%BC%A0%E9%93%AD%E7%9F%A5%E8%AF%86%E5%AD%A6%E4%B9%A0%E5%92%8C%E8%AE%A1%E7%AE%97%E6%8E%A8%E7%90%86.pdf)
  
- [钟宛君-Improving question answering by commonsense-show.pdf](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/%E9%92%9F%E5%AE%9B%E5%90%9B-Improving%20question%20answering%20by%20commonsense-show.pdf)
+* [钟宛君-Improving question answering by commonsense-show.pdf](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/%E9%92%9F%E5%AE%9B%E5%90%9B-Improving%20question%20answering%20by%20commonsense-show.pdf)
  
  
 ## Online Courses
- [MILA 2018夏季深度学习与强化学习课程](https://dlrlsummerschool.ca/)
+* [MILA 2018夏季深度学习与强化学习课程](https://dlrlsummerschool.ca/)
 
 
 ## Datasets
- [Medical segmentation decathlon](http://medicaldecathlon.com/)
+* [Medical segmentation decathlon](http://medicaldecathlon.com/)
 
- [BRATS 2018](https://www.med.upenn.edu/sbia/brats2018/data.html)
+* [BRATS 2018](https://www.med.upenn.edu/sbia/brats2018/data.html)
 
 
 ## Related Awesome Lists
