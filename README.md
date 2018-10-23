@@ -187,7 +187,9 @@ Awesome list for deep learning on medical research
 * [张铭知识学习和计算推理.pdf](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/%E5%BC%A0%E9%93%AD%E7%9F%A5%E8%AF%86%E5%AD%A6%E4%B9%A0%E5%92%8C%E8%AE%A1%E7%AE%97%E6%8E%A8%E7%90%86.pdf)
  
 * [钟宛君-Improving question answering by commonsense-show.pdf](https://hcp-medical-1257456740.cos.ap-guangzhou.myqcloud.com/research%20source/%E9%92%9F%E5%AE%9B%E5%90%9B-Improving%20question%20answering%20by%20commonsense-show.pdf)
- 
+
+* [GitHub超过2600星的PyTorch清单，涵盖CV/NLP等方向](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247485683&idx=1&sn=1baa60c47cb17e3950ce3ca5f5dc83af&chksm=f9a27a7cced5f36adc1b17f908bc960a5116458cba25cec46ce0737302d0b7bd63d9810cf38e&mpshare=1&scene=1&srcid=1022KrRe1YEZPscvH5WiSUqM#rd)
+
  
 ## Online Courses
 * [MILA 2018夏季深度学习与强化学习课程](https://dlrlsummerschool.ca/)
