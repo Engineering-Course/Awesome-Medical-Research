@@ -9,6 +9,7 @@ Awesome list for deep learning on medical research
 - [Object Detection](#object-detection)
 - [Graph Reasoning](#graph-reasoing)
 - [Natural Language Processing](#natural-language-processing)
+- [Paper Connect](#paper-connect)
 - [Challenge](#challenge)
 - [Blog](#blog)
 - [News](#news)
@@ -105,7 +106,11 @@ Awesome list for deep learning on medical research
  
 * Knowledge as a Teacher: Knowledge-Guided Structural Attention Networks [`arxiv`](https://arxiv.org/pdf/1609.03286.pdf)
  
- 
+
+## Paper Connect
+* NeuralDialogPapers(https://github.com/snakeztc/NeuralDialogPapers)
+
+
 ## Challenge
 * [Musculoskeletal Radiographs (MURA)](https://stanfordmlgroup.github.io/competitions/mura/)
   
