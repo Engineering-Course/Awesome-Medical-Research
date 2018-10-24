@@ -108,7 +108,7 @@ Awesome list for deep learning on medical research
  
 
 ## Paper Connect
-* NeuralDialogPapers(https://github.com/snakeztc/NeuralDialogPapers)
+* NeuralDialogPapers[`github`](https://github.com/snakeztc/NeuralDialogPapers)
 
 
 ## Challenge
