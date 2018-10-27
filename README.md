@@ -150,6 +150,9 @@ Awesome list for deep learning on medical research
 
 * [只对你有感觉：谷歌用声纹识别实现定向人声分离](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650750181&idx=5&sn=96d85740cb3d696cd2833f35f7908a6b&chksm=871af89bb06d718dfeea19c7baf58925eb9c5e35494bf3e9ec9b4a44b9af20cccf7287e1d57a&mpshare=1&scene=1&srcid=1027bxRyIdrewYFSrqF8WXmn#rd)
 
+* [“AI临床医生”在败血症治疗中超越人类医生](https://mp.weixin.qq.com/s?__biz=MzAwNTAyMDY0MQ==&mid=2652556118&idx=2&sn=8023adeaedcf5906a6058a446cdb42df&chksm=80cd65d8b7baecce92ceb0d67335e77bbc63713bb3ab92a20bf9f8f13b51105c90afbf6c9a1b&mpshare=1&scene=1&srcid=102400zVTGyHhjlAezB05x7i#rd)
+
+
 ## Slides
 * [Extracting and Modeling Relations with Graph Convolutional Networks](http://202.116.81.74/cache/12/03/www.akbc.ws/c98bae8bd49116c3dcc9546922d94064/ivan-titov-slides.pdf)
  
