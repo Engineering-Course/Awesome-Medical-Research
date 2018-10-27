@@ -209,7 +209,7 @@ Awesome list for deep learning on medical research
 
 * [BRATS 2018](https://www.med.upenn.edu/sbia/brats2018/data.html)
 
-* [https://github.com/MarkWuNLP/MultiTurnResponseSelection](https://github.com/MarkWuNLP/MultiTurnResponseSelection)
+* [MultiTurnResponseSelection](https://github.com/MarkWuNLP/MultiTurnResponseSelection)
 
 
 ## Related Awesome Lists
