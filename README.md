@@ -148,6 +148,7 @@ Awesome list for deep learning on medical research
 
 * [清华大学电子系吴及等在智慧医疗领域取得重要进展](http://news.tsinghua.edu.cn/publish/thunews/10303/2018/20181022085238111884562/20181022085238111884562_.html?from=singlemessage&isappinstalled=0)
 
+* [只对你有感觉：谷歌用声纹识别实现定向人声分离](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650750181&idx=5&sn=96d85740cb3d696cd2833f35f7908a6b&chksm=871af89bb06d718dfeea19c7baf58925eb9c5e35494bf3e9ec9b4a44b9af20cccf7287e1d57a&mpshare=1&scene=1&srcid=1027bxRyIdrewYFSrqF8WXmn#rd)
 
 ## Slides
 * [Extracting and Modeling Relations with Graph Convolutional Networks](http://202.116.81.74/cache/12/03/www.akbc.ws/c98bae8bd49116c3dcc9546922d94064/ivan-titov-slides.pdf)
@@ -204,6 +205,8 @@ Awesome list for deep learning on medical research
 * [Medical segmentation decathlon](http://medicaldecathlon.com/)
 
 * [BRATS 2018](https://www.med.upenn.edu/sbia/brats2018/data.html)
+
+* [https://github.com/MarkWuNLP/MultiTurnResponseSelection](https://github.com/MarkWuNLP/MultiTurnResponseSelection)
 
 
 ## Related Awesome Lists
